@@ -1,3 +1,3 @@
 # TestProjectGradle01
 
-This is a Sample project on Gradle
+This is a Sample Spring Boot project built on Gradle
